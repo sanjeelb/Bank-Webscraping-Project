@@ -4,7 +4,7 @@ This repository contains a Python script for extracting, transforming, and loadi
 
 ## Overview
 
-The project is divided into the following components:
+The project is divided into the following below components:
 
 1. **Extract (`extract` function):** The `extract` function uses BeautifulSoup to scrape data from a specified Wikipedia page and creates a DataFrame with relevant information such as bank names and market capitalization in USD billions.
 
