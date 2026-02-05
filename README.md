@@ -42,4 +42,4 @@ The project is divided into the following components:
 
 - The CSV file is saved in the current working directory with the name `Largest_banks_data.csv`.
 
-- The script logs progress messages to `code_log.txt`. 
+- The script logs progress messages to `code_log.txt`
